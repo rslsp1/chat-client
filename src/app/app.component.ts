@@ -1,6 +1,4 @@
-// <reference path="../<path-to>EventSource.d.ts"/>
 import { Component, NgZone, OnInit } from '@angular/core';
-//import {Observable} from 'rxjs/Observable';
 import {Subject, Observable}  from 'rxjs/Rx';
 import 'rxjs/Rx';
 declare var EventSource:any
